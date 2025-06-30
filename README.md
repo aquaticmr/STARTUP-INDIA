@@ -2,7 +2,8 @@
 
 A full-stack web application built with **Next.js**, **Sanity CMS**, and **Tailwind CSS**, allowing aspiring entrepreneurs to submit, showcase, and discover innovative startup ideas. This platform serves as a central hub for the next generation of Indian startups.
 
-![alt text](https://user-images.githubusercontent.com/1234567/your-screenshot-url.png)
+![Startup India Logo](https://solapureconsultingadvisory.com/wp-content/uploads/2023/12/startup-india-logo1-02-1024x265.png)
+
 <!-- It's highly recommended to replace this with an actual screenshot of your app -->
 
 ---
